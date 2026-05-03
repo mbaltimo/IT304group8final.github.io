@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Inter", sans-serif;
-    background: #66CDAA;
+    background: ##58ffc9;
     color: #333;
 }
 
@@ -29,12 +29,12 @@ body {
 .navbar a {
     margin: 0 20px;
     text-decoration: none;
-    color: #4f46e5;
+    color: ##58ffc9;
     font-weight: 600;
 }
 
 .navbar a:hover {
-    color: #6d28d9;
+    color: ##4adbad;
 }
 
 /* Layout */
